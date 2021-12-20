@@ -16,7 +16,7 @@
     "autoprefixer": "10.0.4",
     "classcat": "4.1.0",
     "framer-motion": "2.9.4",
-    "next": "10.0.2",
+    "next": "12",
     "next-google-fonts": "1.2.1",
     "postcss": "8.1.14",
     "react": "17.0.1",
